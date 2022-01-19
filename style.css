@@ -139,6 +139,7 @@ h4{
 .footer{
 	text-align: center;
 	background: #29323c;
+	margin-bottom: -20px;
 }
 .footer .brand{
 	color: #FFBBA9;
