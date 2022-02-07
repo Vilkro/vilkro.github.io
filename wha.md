@@ -129,6 +129,6 @@
 			<h2>Eat something</h2>
             <p>Copyright @ 2022 hi im kazakh. All rights reserved</p>
         </div>
-	</div>
+		</div>
 </body>
 </html>
